@@ -1,2 +1,2 @@
-# VoiceCatter
-VoiceCatter
+# VoiceChatter
+VoiceChatter
