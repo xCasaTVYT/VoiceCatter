@@ -1,7 +1,7 @@
 # VoiceChatter
 VoiceChatter
 
-Alternative to TeamSpeak and Teamspeak
+Alternative to TeamSpeak and TeaSpeak
 
 Website https://voicechatter.eu
 
